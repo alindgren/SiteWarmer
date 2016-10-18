@@ -17,6 +17,7 @@ A queue trigger function that processes the queue of URLs.
 
 ## Settings
 
-`warmup_STORAGE`: The Azure Storage account connection string
+`warmup_STORAGE`: The Azure Storage account connection string.
+
 `SiteCredentials` (optional): The basic authentication credentials.  
 
